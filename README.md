@@ -106,5 +106,5 @@ Pipeline trainded successfully.
 
 
 
-udents learn to encapsulate preprocessing to avoid leakage and ensure correct 
+Students learn to encapsulate preprocessing to avoid leakage and ensure correct 
 application during training and prediction.
